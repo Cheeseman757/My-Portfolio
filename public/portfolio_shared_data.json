@@ -1,0 +1,58 @@
+{
+    "basic_info": {
+      "name": "Justin Cheeseman",
+      "titles": [ "Software Engineer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/cheeseman757,
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/justincheeseman_,
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/justin-cheeseman-b35338135/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Google Photos",
+          "url": "https://photos.google.com/photo/AF1QipPar1DkJFzp9jsnLK3LWZMcjsqXYfDECqenVn6X",
+          "class": "fab fa-google"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "CSS",
+          "class": "devicon-css3-plain",
+          "level": "70"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "65"
+        }
+      ]
+    }
+  }
