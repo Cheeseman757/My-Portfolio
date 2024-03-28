@@ -1,7 +1,12 @@
 {
     "basic_info": {
       "description_header": "Hello!!",
-      "description": "👋 I am Justin Cheeseman.  I am new to software engineering and this is my portfolio. Feel free to browse my webpage!",
+      "description": "👋 I am Justin Cheeseman, a proud United States Air Force veteran. Beyond my service, I find joy in the immersive worlds of video games, 
+        where I embark on epic adventures and forge unforgettable experiences. With a decade of experience in healthcare operations and leadership, 
+        I've dedicated myself to ensuring the smooth functioning of vital systems that support our communities. In my moments of respite, I immerse myself 
+        in the art of poetry, weaving words into verses that reflect the depth of human emotion and experience. 
+        I also find solace in the timeless charm of vintage books, collecting these treasures that hold within them stories of bygone 
+        eras and profound wisdom. I am new to software engineering and this is my portfolio. Feel free to browse my webpage!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
