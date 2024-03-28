@@ -1,0 +1,97 @@
+{
+    "basic_info": {
+      "description_header": "Hello!!",
+      "description": "👋 I am Justin Cheeseman. I am new to software engineering and this is my portfolio. Feel free to browse my webpage!",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Stars",
+        "startDate": "2024",
+        "description": "My first ever  project in Code Fellows.",
+        "images": [
+          "images/JourneyJolt.jpg"
+        ],
+        "url": "https://github.com/Cheeseman757/Starswebsite",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "USA Comprehension Test",
+        "startDate": "2024",
+        "description": "Group Project for a survey based web page. I was responsible for coding the questions and base content",
+        "images": [
+          "images/logo.png"
+        ],
+        "url": "https://github.com/1st-Place-Games/Comprehension_Game",
+        "technologies": [
+          {
+            "class": "devicon-css3-original",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "Horned Beasts",
+        "startDate": "2024",
+        "description": "My first project using React",
+        "images": [
+          "images/HornedBeasts.jpg"
+        ],
+        "url": "https://github.com/Cheeseman757/horned-beasts",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "CodeFellows",
+        "title": "Web Developer",
+        "years": "01.2024 - present",
+        "mainTech": [
+          "JavaScript 01/01/24"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Bootstrap",
+          "HTML",
+          "CSS",
+          "Git",
+          "React"
+        ]
+      }
+    ]
+  }
